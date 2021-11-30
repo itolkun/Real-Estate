@@ -32,7 +32,7 @@ For this project:
 Property characteristics:
 
 Property characteristics:
-* 'beds' - Number of bedrooms
+* 'rooms' - Number of rooms
 * 'baths' - Number of bathrooms
 * 'sqft' - Total floor area in squared feet
 * 'year_built' - Year property was built
